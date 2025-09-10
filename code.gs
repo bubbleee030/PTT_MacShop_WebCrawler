@@ -6,7 +6,7 @@ const LAST_ARTICLE_TITLE_KEY = "LAST_ARTICLE_TITLE";
 // --- ✨ 您可以在這裡自訂您感興趣的關鍵字 ---
 // 關鍵字不分大小寫。只要文章標題包含其中任何一個，就會被通知。
 // 如果陣列留空 (像這樣: []), 代表不進行篩選，所有新文章都會通知。
-const KEYWORDS = [];
+const KEYWORDS = ["iphone", "mac", "出售"];
 
 
 // --- 主要執行函式 ---
